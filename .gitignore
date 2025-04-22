@@ -1,0 +1,4 @@
+.env.secret
+.cache
+*.local.sh
+*.secrets.sh
